@@ -582,6 +582,11 @@ section {
     background-clip: border-box; /* Gunakan background untuk border-box */
 }
 
+  .img-2{
+    width: 100px;
+    height: 100px;
+    
+  }
 
 
 .post-entry-2 .post-meta {
