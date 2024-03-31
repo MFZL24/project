@@ -569,6 +569,21 @@ section {
     border-radius: 30px; /* Membuat border dengan sudut bulat */
 }
 
+   .border-heading-text {
+
+    border-radius: 30px; /* Atur ketebalan dan jenis border */
+    padding: 20px; /* Jarak antara teks dan border */
+    margin: 10px; /* Jarak antara border dan elemen sekitarnya */
+    color: #fff;
+    
+    /* Gradient linear sebagai latar belakang border */
+    background: linear-gradient(to right, #57381F 30%, #D99566); /* Warna gradient dari #57381F ke #FFFFFF */
+    -webkit-background-clip: border-box; /* Gunakan background untuk border-box */
+    background-clip: border-box; /* Gunakan background untuk border-box */
+}
+
+
+
 .post-entry-2 .post-meta {
   font-size: 11px;
   letter-spacing: 0.07rem;
