@@ -53,6 +53,8 @@ section {
   margin-bottom: 0;
 }
 
+
+
 /*--------------------------------------------------------------
 # Scroll top button
 --------------------------------------------------------------*/
@@ -561,6 +563,10 @@ section {
 
 .post-entry-2 {
   margin-bottom: 30px;
+}
+.with-border {
+    border: 100px;
+    border-radius: 30px; /* Membuat border dengan sudut bulat */
 }
 
 .post-entry-2 .post-meta {
