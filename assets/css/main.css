@@ -570,9 +570,9 @@ section {
 }
 
    .border-heading-text {
-
+    border: 100px;
     border-radius: 30px; /* Atur ketebalan dan jenis border */
-    padding: 20px; /* Jarak antara teks dan border */
+    padding: 20px 20px; /* Jarak antara teks dan border */
     margin: 10px; /* Jarak antara border dan elemen sekitarnya */
     color: #fff;
     
@@ -583,9 +583,9 @@ section {
 }
 
   .img-2{
-    width: 100px;
-    height: 100px;
-    
+    width: 500px;
+    height: 140px;
+
   }
 
 
